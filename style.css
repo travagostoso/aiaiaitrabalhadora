@@ -6,3 +6,21 @@
     justify-content: center;
     
 }
+categoria{
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+
+}
+.categoria-videos ing{
+    opacity:0,5;
+    height:200px;
+}
+.categoria-videos img:hoven{
+    opacity: 1.0;
+    border:3px solid paleturquoise    
